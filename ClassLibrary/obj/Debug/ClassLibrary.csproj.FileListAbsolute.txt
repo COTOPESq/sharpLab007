@@ -1,0 +1,6 @@
+C:\Users\Computer\source\repos\sharpLab007\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Computer\source\repos\sharpLab007\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Computer\source\repos\sharpLab007\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Computer\source\repos\sharpLab007\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\sharpLab007\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Computer\source\repos\sharpLab007\ClassLibrary\obj\Debug\ClassLibrary.pdb

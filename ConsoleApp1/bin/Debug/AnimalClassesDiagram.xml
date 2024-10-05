@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Classes>
+  <Class Name="Animal">
+    <Comment>Это класс животного</Comment>
+  </Class>
+  <Class Name="Cow">
+    <Comment>Это класс коровы</Comment>
+  </Class>
+  <Class Name="Lion">
+    <Comment>Это класс льва</Comment>
+  </Class>
+  <Class Name="Pig">
+    <Comment>Это класс свиньи</Comment>
+  </Class>
+</Classes>
